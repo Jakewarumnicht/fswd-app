@@ -81,4 +81,4 @@ Die Interaktion zwischen Studierenden und Unternehmen erfolgt auf folgenden Wege
 
 ## Initial Target Scope (as per Assignment)
 
-![attractive app screenshot](assets/pdf/Uni2Work_UI.pdf)
+![](assets/pdf/Uni2Work_UI.pdf)
