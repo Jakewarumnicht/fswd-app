@@ -55,23 +55,10 @@ Illustrate the typical successful interaction with your platform from both user 
 
 ### Demand-Side Happy Path
 
-- **Stelle anlegen & Kriterien definieren:** Das Unternehmen legt eine neue Werkstudentenausschreibung an und definiert die genauen Anforderungen (Studiengang, Semester, Skills, Stunden pro Woche, Standort).
 
-- **Sortierte Kandidatenliste einsehen:** Die Plattform berechnet das Matching und zeigt eine sortierte Kandidatenliste nach Match-Prozent an; die besten Treffer stehen ganz oben.
-
-- **Filter verfeinern & Profile prüfen:** Das Unternehmen nutzt den Kandidatenfilter (z. B. nach verifizierten Zertifikaten, Verfügbarkeit) und öffnet die Profile der Top-Kandidaten, um die durch Prüfsiegel verifizierten Skills einzusehen.
-
-- **Direkte Kontaktaufnahme:** Das Unternehmen schreibt die passenden Studierenden direkt über die Plattform an und lädt sie zum Gespräch ein.
 
 ### Supply-Side Happy Path
 
-- **Profil anlegen & Nachweise hochladen:** Der Student erstellt sein Profil mit Studiengang, aktuellem Semester und Skills und lädt Zertifikate sowie Weiterbildungen zur Prüfung hoch, um ein Prüfsiegel für seine Fähigkeiten zu erhalten.
-
-- **Jobs gezielt filtern:** Der Student nutzt die Filterfunktion (Studiengang, Semester, Fachbereich, Skills, Stunden pro Woche, Remote/Standort), wodurch unpassende Anzeigen ausgeblendet werden.
-
-- **Match-Prozent & Anforderungen prüfen:** In der Job-Übersicht sieht der Student sofort den Match-Prozentwert sowie die erfüllten und fehlenden Anforderungen pro Anzeige auf einen Blick.
-
-- **Erfolgreicher Kontakt:** Der Student bewirbt sich auf die passende Stelle oder wird von einem interessierten Unternehmen, das seine verifizierten Skills gesehen hat, direkt zu einem Gespräch eingeladen.
 
 ---
 
