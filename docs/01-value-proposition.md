@@ -2,10 +2,6 @@
 
 # Value Proposition
 
-## Target Users and Their Problems
-
-A platform serves two distinct user groups, each with their own needs and motivations.
-
 ### Demand Side: Unternehmen
 
 - Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
