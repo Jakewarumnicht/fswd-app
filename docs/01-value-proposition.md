@@ -7,11 +7,11 @@
 - Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
 
 - **Problem:**
-  - **Hoher Erfassungsaufwand:** Viele Jobportale erfordern das zeitaufwendige, manuelle Anlegen und Pflegen separater Stellenanzeigen zusätzlich zur eigenen Karriereseite.
-    
-  - **Falsche Zielgruppe:** Große Mengen an unpassenden Bewerbungen aus unpassenden Semestern oder Fachbereichen binden Recruiting-Kapazitäten. 
-    
-  - **Schwer prüfbare Kompetenzen:** Im Lebenslauf angegebene Skills lassen sich vor dem Erstgespräch kaum verlässlich beurteilen.
+- **Hoher Erfassungsaufwand:** Viele Jobportale erfordern das zeitaufwendige, manuelle Anlegen und Pflegen separater Stellenanzeigen zusätzlich zur eigenen Karriereseite.
+ 
+- **Falsche Zielgruppe:** Große Mengen an unpassenden Bewerbungen aus unpassenden Semestern oder Fachbereichen binden Recruiting-Kapazitäten.
+  
+- **Schwer prüfbare Kompetenzen:** Im Lebenslauf angegebene Skills lassen sich vor dem Erstgespräch kaum verlässlich beurteilen.
     
 ### Supply Side: Studierende
 
@@ -19,11 +19,11 @@
 Praxiserfahrung im eigenen Fachbereich sammeln und bringen theoretische Grundlagen sowie Skills mit.
 
 - **Problem:**
-  - **Mangelnde Berufserfahrung:** Studierende scheitern oft an formalen Filtern klassischer Portale und können ihre Stärken aus dem Studium schwer nachweisen.
-  
-  - **Geringe Sichtbarkeit potenzieller Arbeitgeber:** Es gibt zahlreiche attraktive Arbeitgeber, die Studierende bisher nicht kennen oder bei Recherche nicht entdecken können.
-  
-  - **Zeitaufwendiges Prüfen:** Jede Ausschreibung muss mühsam manuell analysiert werden, um festzustellen, ob die Voraussetzungen mit dem eigenen Kenntnisstand übereinstimmen.
+- **Mangelnde Berufserfahrung:** Studierende scheitern oft an formalen Filtern klassischer Portale und können ihre Stärken aus dem Studium schwer nachweisen.
+
+- **Geringe Sichtbarkeit potenzieller Arbeitgeber:** Es gibt zahlreiche attraktive Arbeitgeber, die Studierende bisher nicht kennen oder bei Recherche nicht entdecken können.
+
+- **Zeitaufwendiges Prüfen:** Jede Ausschreibung muss mühsam manuell analysiert werden, um festzustellen, ob die Voraussetzungen mit dem eigenen Kenntnisstand übereinstimmen.
 
 ## Our Platform Solution
 
