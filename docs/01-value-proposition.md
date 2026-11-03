@@ -9,22 +9,30 @@ A platform serves two distinct user groups, each with their own needs and motiva
 ### Demand Side: Unternehmen
 
 - Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
-- Problem:
-  - Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gerichtet werden müssen und kleinen Betrieben Zeit kosten.
-  - Die Fähigkeiten der Bewerber lassen sich nicht genau prüfen, denn Java oder Excel stehen nur im Lebenslauf, und oft merkt man erst im Gespräch, ob es stimmt.
-  - Wenig Zeit im Recruiting aufwenden und gleichzeitig sicher sein wollen, das Bewerber die nötigen Skills haben.
 
-### Supply Side: Student
+- **Problem:**
+  - **Hoher Erfassungsaufwand:** Viele Jobportale erfordern das zeitaufwendige, manuelle Anlegen und Pflegen separater Stellenanzeigen zusätzlich zur eigenen Karriereseite.
+    
+  - **Falsche Zielgruppe:** Große Mengen an unpassenden Bewerbungen aus unpassenden Semestern oder Fachbereichen binden Recruiting-Kapazitäten. 
+    
+  - **Schwer prüfbare Kompetenzen:** Im Lebenslauf angegebene Skills lassen sich vor dem Erstgespräch kaum verlässlich beurteilen.
+    
+### Supply Side: Studierende
 
-- Studierende auf der Suche nach einem Werkstudentenjob, der zum Studium passt; sie möchten Praxiserfahrung im eigenen Fachbereich sammeln und bringen theoretische Grundlagen sowie Skills mit.
-- Problem:
-  - Studierende haben oft wenig Berufserfahrung und können ihre fachlichen Stärken schwer zeigen
-  - Plattformen zeigen zufällige Studentenjobs für alle Semester und Bereiche, deshalb findet man kaum eine passende Anzeige.
-  - Es fehlt die Übersicht; Man muss jede Anzeige komplett lesen, um zu prüfen, ob man die Anforderungen erfüllt. 
+- Studierende auf der Suche nach einem Werkstudentenjob, der zum Studium passt. Sie möchten 
+Praxiserfahrung im eigenen Fachbereich sammeln und bringen theoretische Grundlagen sowie Skills mit.
+
+- **Problem:**
+  - **Mangelnde Berufserfahrung:** Studierende scheitern oft an formalen Filtern klassischer Portale und können ihre Stärken aus dem Studium schwer nachweisen.
+  
+  - **Geringe Sichtbarkeit potenzieller Arbeitgeber:** Es gibt zahlreiche attraktive Arbeitgeber, die Studierende bisher nicht kennen oder bei Recherche nicht entdecken können.
+  
+  - **Zeitaufwendiges Prüfen:** Jede Ausschreibung muss mühsam manuell analysiert werden, um festzustellen, ob die Voraussetzungen mit dem eigenen Kenntnisstand übereinstimmen.
 
 ## Our Platform Solution
 
-Unsere Plattform bringt Studierende und Unternehmen über detaillierte Profile, verifizierte Fähigkeiten und eine zielgerichtete Suche zusammen. Studierende können ihre Qualifikationen sowie Studienleistungen und Projekte belegen und sichtbar machen, während Unternehmen gezielte nach passenden Werkstudierende suchen und Angebote auf Basis verifizierten Kompetenzen und Match-Prozenten ausgetauscht werden. 
+Unsere Plattform verbindet Studierende und Unternehmen über ein kompetenz- und schlagwortbasiertes Matching-System. 
+Anhand der Qualifikationen(z.B. Python Kurs, absolvierte Hochschulkurse und eigenständige Projekte) im Studierendenprofil ermittelt ein Algorithmus eine prozentuale Übereinstimmung (Match-Score) mit geeigneten Unternehmen. Wenn fachliche Interessen und gesuchte Kompetenzen übereinstimmen, werden Studierenden die passende Unternehmen und deren aktuelle Werkstudentenausschreibungen direkt vorgeschlagen.Ist eine relevante Stelle auf der Karriereseite des Unternehmens vorhanden, führt eine direkte Verlinkung zur Stellenausschreibung, sodass der Bewerbungsprozess unkompliziert und gezielt gestartet werden kann. 
 
 ### Solution for the Demand Side
 
