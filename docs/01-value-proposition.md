@@ -34,31 +34,28 @@ Praxiserfahrung im eigenen Fachbereich sammeln und bringen theoretische Grundlag
 Unsere Plattform verbindet Studierende und Unternehmen über ein kompetenz- und schlagwortbasiertes Matching-System. 
 Anhand der Qualifikationen(z.B. Python Kurs, absolvierte Hochschulkurse und eigenständige Projekte) im Studierendenprofil ermittelt ein Algorithmus eine prozentuale Übereinstimmung (Match-Score) mit geeigneten Unternehmen. Wenn fachliche Interessen und gesuchte Kompetenzen übereinstimmen, werden Studierenden die passende Unternehmen und deren aktuelle Werkstudentenausschreibungen direkt vorgeschlagen.Ist eine relevante Stelle auf der Karriereseite des Unternehmens vorhanden, führt eine direkte Verlinkung zur Stellenausschreibung, sodass der Bewerbungsprozess unkompliziert und gezielt gestartet werden kann. 
 
-### Solution for the Demand Side
+### Solution for the Demand Side(Unternehmen)
 
-- **Filterfunktion in der Kandidatensuche:** Arbeitgeber filtern Studierende nach Studiengang, Semester, Skills, verifizierten Zertifikaten, Stunden pro Woche, Verfügbarkeit und Standort. So sehen sie nur Kandidaten, die zur Ausschreibung passen.
+- **Automatisierter Zugriff auf relevante Zielgruppen:** Unternehmen gewinnen gezielte Sichtbarkeit bei Studierenden, deren Qualifikationen und Interessen möglichst genau dem gesuchten Profil entsprechen, ohne dass eigene Stellenanzeigen auf den verschiedenen Plattform verfasst werden müssen.
   
-- **Matching mit sortierter Kandidatenliste:** Beim Anlegen einer Stelle legen Arbeitgeber die Anforderungen fest. Die Plattform sortiert die Kandidaten nach Match-Prozent, die besten Treffer stehen oben. Das spart das einzelne Sichten aller Bewerbungen.
+- **Präzise Personalauswahl:** Da konkrete Schlagwörter direkt mit den hinterlegten Studienleistungen und Projekten abgeglichen werden, erreichen Ausschreibungen ausschließlich Studierende mit dem passenden Skillset.
 
-- **Geprüftes Skill-Profil mit Prüfsiegel:** Zertifikate und Weiterbildungen wurden vorab geprüft, deshalb sehen Firmen geprüfte Zertifikate mit Prüfsiegeln und erkennen sofort, was nur angegeben ist und was verifiziert wurde.
+- **Reduzierter Recruiting-Aufwand:** Da Studierende über das Matching direkt auf die bestehenden Ausschreibungen der Unternehmens-Websites geleitet werden, sinkt der administrative Aufwand zur Veröffentlichung und Verwaltung von Stellen.
 
-- **Fachlich passend, schnell einsetzbar & Zeitersparnis:** Semester, Fachbereich und geprüfte Skills sind vorab sichtbar. Unternehmen können passende Studierende direkt über die Plattform anschreiben und kontaktieren, ohne auf unpassende Bewerbungen zu warten.
 
-### Solution for the Supply Side
+### Solution for the Supply Side(Studierende)
 
-- **Filterfunktion für Jobs:** Studierende können Jobs filtern nach Studiengang, Semester, Fachbereich, Skills (z. B. Java, Fullstack, SAP), Stunden pro Woche, Standort oder Remote und Startdatum. So sehen sie nur Stellen, die zu ihrem Studienstand passen.
+- **Kompetenzbasiertes Unternehmens-Matching:** Auf Basis der eigenen Fähigkeiten, abgeschlossenen Module und praktischen Projekte erhalten Studierende Vorschläge für passende Unternehmen inklusive eines transparenten Match-Prozentwerts.
 
-- **Matching mit Match-Prozent pro Stelle:** Die Plattform vergleicht Profil und Stellenanforderungen und zeigt bei jeder Anzeige einen Match-Prozentwert. Dazu sieht man, welche Anforderungen erfüllt sind und welche fehlen. So erkennt man auf einen Blick, ob man passt, ohne die ganze Anzeige zu lesen.
+- **Effiziente Entdeckung passender offenen Stelle:** Anstatt manuell zahlreiche Karriereseiten zu durchsuchen, sehen Studierende sofort, welche Firmen aktuell zu ihren Programmiersprachen und Interessengebieten passen.
 
-- **Zertifikate & Weiterbildungen hochladen und prüfen lassen:** Skills wie Java oder Fullstack können belegt werden, wodurch Fähigkeiten sichtbar und glaubwürdig dargestellt werden.
-
-- **Mehr Einladungen zum Gespräch:** Firmen sehen sofort, was belegt ist, wodurch geprüfte Skills sichtbar sind und passende Studierende direkt über die Plattform angeschrieben werden.
+- **Weiterleitung zum Bewerbungsprozess:** Mit einem Klick gelangen Studierende von der Match-Übersicht direkt zur Original-Ausschreibung auf der Unternehmens-Webseite, um ihre Bewerbung gezielt einzureichen.
 
 ## Happy Paths
 
 [Describe how your platform connects the two groups and facilitates their interaction: What steps lead from an offer or request to a successful match or exchange?
 
-Illustrate the typical successful interaction with your platform from both user perspectives, from from the app's entry point to a completed task. You might want to show the path as (schematic) screen flows. Ensure your "happy path" (a) is consistent with the Value Proposition, (b) demonstrates how the two user groups interact through the platform, and (c) shows the features as actually implemented in the submitted web app.]
+Illustrate the typical successful interaction with your platform from both user perspectives, from the app's entry point to a completed task. You might want to show the path as (schematic) screen flows. Ensure your "happy path" (a) is consistent with the Value Proposition, (b) demonstrates how the two user groups interact through the platform, and (c) shows the features as actually implemented in the submitted web app.]
 
 ### Demand-Side Happy Path
 
