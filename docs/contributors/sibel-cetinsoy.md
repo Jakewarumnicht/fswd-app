@@ -6,11 +6,13 @@
 
 ### Target grade
 
-1,4
+1,7
 
 ### Personal goals
 
-Sicherer im Umgang mit GitHub und Full-Stack-Entwicklung werden und besser verstehen, wie Frontend, Backend und Datenbank zusammenspielen.
+Gezielte Note: 1,7
+
+Mein persönliches Ziel ist es, im Laufe des Projekts sicherer im Umgang mit Git und GitHub zu werden und den gesamten Ablauf von Branches, Commits, Pull Requests und Merges besser zu verstehen. Außerdem möchte ich nachvollziehen können, wie eine vollständige Webanwendung technisch aufgebaut ist und wie Frontend, Backend und Datenbank miteinander zusammenspielen. Im Projekt möchte ich mindestens ein eigenes Feature möglichst selbstständig umsetzen und anschließend auch erklären können, wie dieses technisch funktioniert und welche Entscheidungen dabei getroffen wurden. Gleichzeitig möchte ich meine Kenntnisse in Python und Flask weiter ausbauen und insgesamt mehr Sicherheit bei der gemeinsamen Entwicklung im Team gewinnen.
 
 ---
 
