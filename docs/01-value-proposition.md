@@ -7,7 +7,7 @@
 - Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
 
 - **Problem:**
-- **Hoher Erfassungsaufwand:** Viele Jobportale erfordern das zeitaufwendige, manuelle Anlegen und Pflegen separater Stellenanzeigen zusätzlich zur eigenen Karriereseite.
+- **Schwierige Vorauswahl:** Bei Studierenden mit wenig Berufserfahrung ist oft schwer erkennbar, welche fachlichen Fähigkeiten, Interessen und Studienerfahrungen tatsächlich zu einer Werkstudentenstelle passen.
  
 - **Falsche Zielgruppe:** Große Mengen an unpassenden Bewerbungen aus unpassenden Semestern oder Fachbereichen binden Recruiting-Kapazitäten.
   
@@ -32,11 +32,11 @@ Anhand der Qualifikationen(z.B. Python Kurs, absolvierte Hochschulkurse und eige
 
 ### Solution for the Demand Side (Unternehmen)
 
-- **Automatisierter Zugriff auf relevante Zielgruppen:** Unternehmen gewinnen gezielte Sichtbarkeit bei Studierenden, deren Qualifikationen und Interessen möglichst genau dem gesuchten Profil entsprechen, ohne dass eigene Stellenanzeigen auf den verschiedenen Plattform verfasst werden müssen.
+- **Gezielter Zugriff auf relevante Zielgruppen:** Unternehmen erhalten Sichtbarkeit bei Studierenden, deren Qualifikationen und Interessen möglichst genau zum gesuchten Profil passen.
   
 - **Präzise Personalauswahl:** Da konkrete Schlagwörter direkt mit den hinterlegten Studienleistungen und Projekten abgeglichen werden, erreichen Ausschreibungen ausschließlich Studierende mit dem passenden Skillset.
 
-- **Reduzierter Recruiting-Aufwand:** Da Studierende über das Matching direkt auf die bestehenden Ausschreibungen der Unternehmens-Websites geleitet werden, sinkt der administrative Aufwand zur Veröffentlichung und Verwaltung von Stellen.
+- **Reduzierter Recruiting-Aufwand:** Durch das Matching werden Unternehmen gezielt Studierende mit hoher fachlicher Passung angezeigt, wodurch die Vorauswahl geeigneter Kandidatinnen und Kandidaten erleichtert wird.
 
 
 ### Solution for the Supply Side (Studierende)
@@ -53,11 +53,11 @@ Die Interaktion zwischen Studierenden und Unternehmen erfolgt auf folgenden Wege
 
 - **Von Studierenden zu Unternehmen:** Studierende entdecken auf Basis ihres Match-Scores passende (auch bisher unbekannte) Unternehmen und werden mit einem Klick direkt zur Original-Ausschreibung auf der Karriereseite des Unternehmens weitergeleitet, um sich dort zu bewerben.
 
-- **Von Unternehmen zu Studierenden:** Unternehmen rufen ihr bereits vorab generiertes Unternehmensprofil auf, sehen sofort die nach Match-Prozent sortierten Studierenden für ihre importierten Stellen und laden passende Kandidatinnen und Kandidaten direkt über die Plattform zum Vorstellungsgespräch ein.
+- **Von Unternehmen zu Studierenden:** Unternehmen sehen passende Studierende für ihre hinterlegten Werkstudentenstellen, sortiert nach Match-Prozent, und können geeignete Kandidatinnen und Kandidaten direkt über die Plattform zum Vorstellungsgespräch einladen.
 
 ### Demand-Side Happy Path (Unternehmen)
 
-- **Vorab generiertes Unternehmensprofil übernehmen**: Da die Plattform offene Werkstudentenstellen und deren Anforderungen bereits automatisch von den Karriereseiten erfasst, muss das Unternehmen keine Anzeigen manuell eintippen. Es meldet sich lediglich mit der Firmen-E-Mail-Adresse an, um sein vorab generiertes Profil freizuschalten.   
+- **Unternehmensprofil aufrufen:** Das Unternehmen meldet sich mit seiner Firmen-E-Mail-Adresse an und erhält Zugriff auf sein Unternehmensprofil und die zugeordneten Werkstudentenstellen.
 
 - **Automatisch erfasste Stellen & Schlagwörter einsehen**: Nach dem Login sieht das Unternehmen seine automatisch importierten Werkstudentenstellen inklusive der daraus erkannten Skill-Schlagwörter (z. B. Java, Python, SQL, 15 Std./Woche).   
 
