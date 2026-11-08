@@ -10,7 +10,7 @@
 
 ### Personal goals
 
-Eine kreative Projektidee im Team technisch verwirklichen.
+Mein Ziel ist es, gemeinsam im Team unsere Projektidee technisch umzusetzen und dabei praktische Erfahrungen zu sammeln. Ich möchte den gesamten Prozess von der ersten Idee über die Planung bis hin zur fertigen Anwendung miterleben und besser verstehen, welche Schritte dafür notwenig sind. Dabei möchte ich lernen, wie man mit Herausforderungen umgeht, gemeinsam Lösungen findet und die Zusammenarbeit im Team organisiert. Am Ende möchte ich die Erfahrungen aus dem Projekt mitnehmen und ein besseres Verständnis dafür haben, wie die Entwicklung eines Softwareprojekts in der Praxis läuft.
 
 ---
 
