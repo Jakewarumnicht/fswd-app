@@ -10,8 +10,7 @@
 
 ### Personal goals
 
-Mein Ziel ist es, meine Ideen gut in die Gruppe einzubringen und gemeinsam im Team das Projekt erfolgreich umzusetzen.
-
+Mein persönliches Ziel ist es, Full-Stack-Entwicklung im Laufe des Projekts genau zu verstehen und praktisch anzuwenden. Ich möchte nachvollziehen können, wie eine vollständige Webanwendung aufgebaut ist und wie Frontend, Backend und Datenbank technisch zusammenspielen. Dafür möchte ich meine Kenntnisse in Python, Flask und Jinja2 sowie im Umgang mit SQLite vertiefen und das, was ich umsetze, anschließend auch erklären können. Außerdem möchte ich im Umgang mit Git und GitHub sicherer werden und den Ablauf von Branches, Commits, Pull Requests und Merges besser verstehen. Im Team möchte ich meine Ideen aktiv einbringen, Verantwortung für meine Aufgaben übernehmen und mit den anderen gemeinsam ein Projekt erfolgreich umsetzen.
 
 ---
 
