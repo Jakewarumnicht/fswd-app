@@ -10,7 +10,8 @@
 
 ### Personal goals
 
-Meine eigene Idee als funktionierende Webanwendung selbständig umsetzen.
+Mein persönliches Ziel für diesen Kurs ist es nicht nur, den Kurs zu bestehen, sondern Teamarbeit und Organisation eines Full-Stack-Web Development-Projekts in der Praxis zu erlernen und den gesamten Workflow der Full-Stack-Web Development zu beherrschen. Im Fokus steht für mich die gemeinsame Projektkoordination. Ich möchte lernen, wie wir uns im Team klar absprechen, Aufgaben planen, einen Workflow über GitHub etablieren und wesentliche Entscheidungen nicht nur treffen, sondern deren Begründung nachvollziehbar dokumentieren.
+Technisch möchte ich das Zusammenspiel unseres Stacks, also Datenbanken, Backend mit Python und Flask, JSON-Schnittstellen bis hin zur Template-Logik mit Jinja, vollständig anwenden können.
 
 ---
 
