@@ -22,7 +22,7 @@ Praxiserfahrung im eigenen Fachbereich sammeln und bringen theoretische Grundlag
 - **Mangel an spezialisierten Plattformen:** Es gibt kaum Jobportale, die ausschließlich auf Werkstudentenstellen ausgerichtet sind.
 Angebote gehen meist auf allgemeinen Plattformen unter. 
 
-- **Geringe Sichtbarkeit potenzieller Arbeitgeber:** Es gibt zahlreiche attraktive Arbeitgeber, die Studierende bisher nicht kennen oder bei Recherche nicht entdecken können.
+- **Geringe Sichtbarkeit potenzieller Arbeitgeber:** Unternehmen veröffentlichen Stellen oft auf der eigenen Website, und nicht jede davon erscheint auf den großen Jobportalen oder Suchmaschinen. Studierende, die dort suchen, sehen deshalb nicht alle Werkstudentenstellen, auch nicht die von kleineren und mittleren Unternehmen, welche sie vielleicht noch nicht kennen.
 
 - **Fehlende Erfassung akademischer Leistungen:** Aktuelle Portale bieten keine Möglichkeit, absolvierte Hochschulkurse, Noten, Universitätsprojekte oder Zertifikate strukturiert im Profil zu hinterlegen.
 
