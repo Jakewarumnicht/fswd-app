@@ -76,7 +76,7 @@ Die Verbindung zwischen Studierenden und Unternehmen entsteht auf folgenden Weg:
 
 - **Registrierung & Profil anlegen:** Der/die Studierende registriert sich mit der E-Mail-Adresse, wählt Studiengang sowie aktuelles Fachsemester aus und hinterlegt im Profil fachliche Interessen, konkrete Skills (z. B. Java, Python, Fullstack), abgeschlossene Uni-Kurse und eigene Projekte.   
 
-- **Empfohlene Unternehmen & Stellen entdecken:** Direkt nach dem Login zeigt das Dashboard automatisch empfohlene Werkstudentenstellen von passenden – teils noch unentdeckten – Unternehmen inklusive des jeweiligen Match-Prozentwerts (z. B. Match 92 %) sowie eingegangene Mitteilungen und Gesprächseinladungen von Arbeitgebern an.   
+- **Empfohlene Unternehmen & Stellen entdecken:** Direkt nach dem Login zeigt das Dashboard automatisch empfohlene Werkstudentenstellen von passenden – teils noch unentdeckten – Unternehmen inklusive des jeweiligen Match-Prozentwerts (z. B. Match 70 %).   
 
 - **Gezielte Suche & Anforderungsabgleich:**  Über die Such- und Filterfunktion (nach Stelle/Skill, Studiengang, Semester, Stunden/Woche, Standort oder über die Checkbox „Nur Stellen, die zu meinem Profil passen“) grenzt der/die Studierende die aggregierten Ausschreibungen ein und sieht sofort anhand der Schlagwort-Tags und des Match-Scores, wie gut das eigene Profil zur Stelle passt.   
 
