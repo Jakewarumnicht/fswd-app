@@ -32,11 +32,11 @@ Unsere Plattform verbindet Studierende und Unternehmen über ein schlagwortbasie
 
 ### Solution for the Demand Side (Unternehmen)
 
-- **Gezielter Zugriff auf relevante Zielgruppen:** Unternehmen erhalten Sichtbarkeit bei Studierenden, deren Qualifikationen und Interessen möglichst genau zum gesuchten Profil passen.
+- **Kein zusätzlicher Aufwand:** Das Unternehmen legt kein Konto an und pflegt nichts. Seine Informationen und Werkstudentenstellen werden automatisch von der eigenen Website übernommen und für Studierende sichtbar gemacht. Die Bewerbung läuft weiter über den bestehenden Kanal des Unternehmens.
   
-- **Präzise Personalauswahl:** Da konkrete Schlagwörter direkt mit den hinterlegten Studienleistungen und Projekten abgeglichen werden, erreichen Ausschreibungen ausschließlich Studierende mit dem passenden Skillset.
+- **Sichtbarkeit bei passenden Studierenden:** Unternehmen erscheinen bei Studierenden, die gezielt nach einer Werkstudentenstelle in ihrem Fachbereich suchen. Auch Stellen, die nur auf der eigenen Website stehen, werden so angezeigt, und die Studierenden gelangen mit einem Klick direkt zur Stelle.
 
-- **Reduzierter Recruiting-Aufwand:** Durch das Matching werden Unternehmen gezielt Studierende mit hoher fachlicher Passung angezeigt, wodurch die Vorauswahl geeigneter Kandidatinnen und Kandidaten erleichtert wird.
+- **Bessere Passung der Interessenten:** Studierende wählen ihre Schlagwörter aus und sehen anhand des Match-Scores, wie gut sie zum Unternehmen passen. So melden sich eher Studierende, die fachlich zu den Stellen passen.
 
 
 ### Solution for the Supply Side (Studierende)
