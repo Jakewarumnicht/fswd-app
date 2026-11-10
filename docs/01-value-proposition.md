@@ -59,7 +59,7 @@ Die Verbindung zwischen Studierenden und Unternehmen entsteht auf folgenden Weg:
 
 ### Demand-Side Happy Path (Unternehmen)
 
-- **Unternehmensprofil aufrufen:** Das Unternehmen meldet sich mit seiner Firmen-E-Mail-Adresse an und erhält Zugriff auf sein Unternehmensprofil und die zugeordneten Werkstudentenstellen.
+- **Kein Login nötig:** Das Unternehmen hat kein Konto und muss nichts tun. Seine Website ist in der Plattform hinterlegt.
 
 - **Automatisch erfasste Stellen & Schlagwörter einsehen**: Nach dem Login sieht das Unternehmen seine automatisch importierten Werkstudentenstellen inklusive der daraus erkannten Skill-Schlagwörter (z. B. Java, Python, SQL, 15 Std./Woche).   
 
