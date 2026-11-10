@@ -4,7 +4,7 @@
 
 ### Demand Side: Unternehmen
 
-- Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
+- Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für Werkstudentenstellen.
 
 - **Problem:**
 - **Schwierige Ansprache der Zielgruppe:** Unternehmen müssen Studierende erreichen, die gezielt nach einer Werkstudententätigkeit in ihrem Fachgebiet suchen. Ohne Filter nach Fachgebiet erreichen sie viele Studierende, die fachlich nicht passen.
