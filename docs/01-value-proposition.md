@@ -7,11 +7,11 @@
 - Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
 
 - **Problem:**
-- **Schwierige Vorauswahl:** Bei Studierenden mit wenig Berufserfahrung ist oft schwer erkennbar, welche fachlichen Fähigkeiten, Interessen und Studienerfahrungen tatsächlich zu einer Werkstudentenstelle passen.
+- **Schwierige Ansprache der Zielgruppe:** Unternehmen müssen Studierende erreichen, die gezielt nach einer Werkstudententätigkeit in ihrem Fachgebiet suchen. Ohne Filter nach Fachgebiet erreichen sie viele Studierende, die fachlich nicht passen.
  
-- **Falsche Zielgruppe:** Große Mengen an unpassenden Bewerbungen aus unpassenden Semestern oder Fachbereichen binden Recruiting-Kapazitäten.
+- **Begrenzte Reichweite der eigenen Website:** Studierende suchen häufig auf Jobbörsen und kommen nicht von sich aus auf die Karriere-Seite eines Unternehmens. Passende Studierende erfahren so nicht, dass es dort eine Werkstudentenstelle gibt.
   
-- **Schwer prüfbare Kompetenzen:** Im Lebenslauf angegebene Skills lassen sich vor dem Erstgespräch kaum verlässlich beurteilen.
+- **Hoher Recruiting-Aufwand:** Die Organisation und Koordination von Bewerbungsprozessen kostet Zeit. Jeder zusätzliche Weg, Studierende zu erreichen, bedeutet zusätzlichen Aufwand für die Personalabteilung.
     
 ### Supply Side: Studierende
 
