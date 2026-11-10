@@ -26,7 +26,7 @@ Angebote gehen meist auf allgemeinen Plattformen unter.
 
 - **Fehlende Erfassung akademischer Leistungen:** Aktuelle Portale bieten keine Möglichkeit, absolvierte Hochschulkurse, Noten, Universitätsprojekte oder Zertifikate strukturiert im Profil zu hinterlegen.
 
-## Our Platform Solution
+## Our Plattform Solution
 
 Unsere Plattform verbindet Studierende und Unternehmen über ein schlagwortbasiertes Matching-System. Es gibt eine feste Liste von Schlagwörtern (z. B. Java, Python, SQL, Marketing), die zu den Studiengängen passen. Studierende wählen im Profil die Schlagwörter aus, die zu ihren Themen, Skills, Kursen und Projekten passen. Über eine API holt die Plattform automatisch die Informationen zum Unternehmen und zu seinen Werkstudentenstellen von der Unternehmenswebsite und zeigt sie bei uns an. Aus diesen Infos ermittelt die Plattform automatisch, welche Schlagwörter aus der Liste zum Unternehmen passen. Der Match-Score ist der Anteil der Schlagwörter des Unternehmens, die auch der/die Studierende gewählt hat. Studierenden werden passende Unternehmen und deren aktuelle Werkstudentenstellen vorgeschlagen. Eine direkte Verlinkung führt zur Stelle auf der Website des Unternehmens, sodass der Bewerbungsprozess unkompliziert gestartet werden kann. Gibt es bei einem Unternehmen gerade keine Werkstudentenstelle, zeigt das Profil nur die Informationen zum Unternehmen und was es macht. 
 
