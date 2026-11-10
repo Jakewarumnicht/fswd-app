@@ -47,7 +47,7 @@ Unsere Plattform verbindet Studierende und Unternehmen über ein schlagwortbasie
 
 - **Ein Überblick an einer Stelle:** Studierende sehen Unternehmen mit Werkstudentenstellen an einer Stelle und müssen nicht mehr mehrere Portale und Karriere-Seiten einzeln durchsuchen. Die Infos werden automatisch von den Websites der Unternehmen übernommen, auch wenn eine Stelle nur dort steht. Ein Klick führt ohne Umwege zur Original-Ausschreibung auf der Unternehmenswebsite.
 
-- **Auch ohne aktuelle Stelle nützlich: Auch ohne aktuelle Stelle nützlich: Gibt es bei einem Unternehmen gerade keine Werkstudentenstelle, sehen Studierende trotzdem die Informationen zum Unternehmen und bekommen einen Eindruck davon, was es macht und ob es zu ihnen passt. Über den Link zur Website des Unternehmens können sie sich bei Interesse auch ohne ausgeschriebene Stelle selbst initiativ bewerben, zum Beispiel über die Karriere-Mail des Unternehmens.
+- **Auch ohne aktuelle Stelle nützlich:** Auch ohne aktuelle Stelle nützlich: Gibt es bei einem Unternehmen gerade keine Werkstudentenstelle, sehen Studierende trotzdem die Informationen zum Unternehmen und bekommen einen Eindruck davon, was es macht und ob es zu ihnen passt. Über den Link zur Website des Unternehmens können sie sich bei Interesse auch ohne ausgeschriebene Stelle selbst initiativ bewerben, zum Beispiel über die Karriere-Mail des Unternehmens.
 
 ## Happy Paths
 
