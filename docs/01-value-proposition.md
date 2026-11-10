@@ -61,13 +61,15 @@ Die Verbindung zwischen Studierenden und Unternehmen entsteht auf folgenden Weg:
 
 - **Kein Login nötig:** Das Unternehmen hat kein Konto und muss nichts tun. Seine Website ist in der Plattform hinterlegt.
 
-- **Automatisch erfasste Stellen & Schlagwörter einsehen**: Nach dem Login sieht das Unternehmen seine automatisch importierten Werkstudentenstellen inklusive der daraus erkannten Skill-Schlagwörter (z. B. Java, Python, SQL, 15 Std./Woche).   
+- **Infos werden automatisch geholt:** Die API holt die Informationen zum Unternehmen und zu seinen Werkstudentenstellen (Titel, Beschreibung, Link) von der Unternehmenswebsite.   
 
-- **Sortierte Kandidatenliste sichten**: Die Plattform gleicht die Stellen-Schlagwörter automatisch mit den Studierendenprofilen ab und zeigt eine nach Match-Prozent absteigend sortierte Kandidatenliste an; die besten Treffer stehen ganz oben. Bei Bedarf verfeinert das Unternehmen die Liste über Filter (Studiengang, Semester, Skills, Stunden/Woche, Verfügbarkeit).   
+- **Schlagwörter werden erkannt:** Aus diesen Infos ermittelt die Plattform automatisch, welche Schlagwörter aus der festen Liste zum Unternehmen passen (z.B. Java, Python, SQL).  
 
-- **Qualifikationen & Projekte prüfen**: Das Unternehmen öffnet die Detailansicht vielversprechender Kandidaten und prüft deren hinterlegte Skills, absolvierte Hochschulkurse, Noten sowie praktische Studienprojekte.   
+- **Bewerbungen gehen direkt ein:** Studierende bewerben sich über den Link zur Stelle auf der Website des Unternehmens oder, wenn keine Stelle ausgeschrieben ist, initiativ. Die Bewerbung läuft über den bestehenden Kanal des Unternehmens.   
 
-- **Direkte Kontaktaufnahme**: Das Unternehmen wählt im Einladungs-Formular die betreffende Stelle aus, fügt eine kurze Nachricht sowie einen Terminvorschlag hinzu und sendet die Gesprächseinladung direkt an das Dashboard des Studierenden.   
+- **Aktualität bleibt gewahrt:** Stellen, die auf der Website nicht mehr stehen, verschwinden. Gibt es keine Stelle, zeigt das Profil nur die Informationen zum Unternehmen und was es macht.
+
+- **Passende Studierende sehen das Unternehmen:** Die Plattform gleicht die Schlagwörter des Unternehmens mit den Profilen der Studierenden ab und zeigt das Unternehmen gezielt den Studierenden, die fachlich dazu passen, sortiert nach Match-Prozent. So erreicht das Unternehmen Interessenten für seine Werkstudentenstellen, ohne selbst suchen zu müssen.
 
 
 ### Supply-Side Happy Path (Studierenden)
