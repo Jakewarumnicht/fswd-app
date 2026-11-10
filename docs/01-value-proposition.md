@@ -78,7 +78,7 @@ Die Verbindung zwischen Studierenden und Unternehmen entsteht auf folgenden Weg:
 
 - **Empfohlene Unternehmen & Stellen entdecken:** Direkt nach dem Login zeigt das Dashboard automatisch empfohlene Werkstudentenstellen von passenden – teils noch unentdeckten – Unternehmen inklusive des jeweiligen Match-Prozentwerts (z. B. Match 70 %).   
 
-- **Gezielte Suche & Anforderungsabgleich:**  Über die Such- und Filterfunktion (nach Stelle/Skill, Studiengang, Semester, Stunden/Woche, Standort oder über die Checkbox „Nur Stellen, die zu meinem Profil passen“) grenzt der/die Studierende die aggregierten Ausschreibungen ein und sieht sofort anhand der Schlagwort-Tags und des Match-Scores, wie gut das eigene Profil zur Stelle passt.   
+- **Gezielte Suche & Anforderungsabgleich:**  Über die Such- und Filterfunktion (nach Stelle/Skill, Studiengang, Semester, Stunden/Woche, Standort oder über die Checkbox „Nur Stellen, die zu meinem Profil passen“) grenzt der/die Studierende die aggregierten Ausschreibungen ein und sieht sofort anhand der Schlagwort-Tags und des Match-Scores, wie gut das eigene Profil zum Unternehmen passt.   
 
 - **Weiterleitung zur Bewerbung oder Einladung annehmen:** Klickt der/die Studierende auf eine passende Stelle, erfolgt die direkte Weiterleitung zur Original-Ausschreibung auf der Karriereseite des Unternehmens, um die Bewerbung dort einzureichen. Alternativ öffnet der/die Studierende im Bereich Einladungen bzw. Mitteilungen eine erhaltene Gesprächseinladung eines Unternehmens und nimmt den vorgeschlagenen Interviewtermin direkt an.
 ---
