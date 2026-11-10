@@ -51,11 +51,11 @@ Unsere Plattform verbindet Studierende und Unternehmen über ein schlagwortbasie
 
 ## Happy Paths
 
-Die Interaktion zwischen Studierenden und Unternehmen erfolgt auf folgenden Wegen:
+Die Verbindung zwischen Studierenden und Unternehmen entsteht auf folgenden Weg:
 
-- **Von Studierenden zu Unternehmen:** Studierende entdecken auf Basis ihres Match-Scores passende (auch bisher unbekannte) Unternehmen und werden mit einem Klick direkt zur Original-Ausschreibung auf der Karriereseite des Unternehmens weitergeleitet, um sich dort zu bewerben.
+- **Von Studierenden zu Unternehmen:** Studierende entdecken auf Basis ihres Match-Scores passende (auch ihnen bisher unbekannte) Unternehmen und werden mit einem Klick direkt zur Original-Ausschreibung auf der Karriereseite des Unternehmens weitergeleitet, um sich dort zu bewerben.
 
-- **Von Unternehmen zu Studierenden:** Unternehmen sehen passende Studierende für ihre hinterlegten Werkstudentenstellen, sortiert nach Match-Prozent, und können geeignete Kandidatinnen und Kandidaten direkt über die Plattform zum Vorstellungsgespräch einladen.
+- **Von Unternehmen zu Studierenden:** Unternehmen müssen nichts tun. Die Plattform holt automatisch die Informationen zum Unternehmen und seinen Werkstudentenstellen von der Unternehmenswebsite, ermittelt die passenden Schlagwörter und zeigt das Unternehmen den Studierenden an, die dazu passen, sortiert nach Match-Prozent.
 
 ### Demand-Side Happy Path (Unternehmen)
 
