@@ -19,11 +19,12 @@
 Praxiserfahrung im eigenen Fachbereich sammeln und bringen theoretische Grundlagen sowie Skills mit.
 
 - **Problem:**
-- **** 
+- **Mangel an spezialisierten Plattformen:** Es gibt kaum Jobportale, die ausschließlich auf Werkstudentenstellen ausgerichtet sind.
+Angebote gehen meist auf allgemeinen Plattformen unter. 
 
 - **Geringe Sichtbarkeit potenzieller Arbeitgeber:** Es gibt zahlreiche attraktive Arbeitgeber, die Studierende bisher nicht kennen oder bei Recherche nicht entdecken können.
 
-- **Zeitaufwendiges Prüfen:** Jede Ausschreibung muss mühsam manuell analysiert werden, um festzustellen, ob die Voraussetzungen mit dem eigenen Kenntnisstand übereinstimmen.
+- **Fehlende Erfassung akademischer Leistungen:** Aktuelle Portale bieten keine Möglichkeit, absolvierte Hochschulkurse, Noten, Universitätsprojekte oder Zertifikate strukturiert im Profil zu hinterlegen.
 
 ## Our Platform Solution
 
