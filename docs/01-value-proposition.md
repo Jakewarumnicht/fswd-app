@@ -41,11 +41,11 @@ Unsere Plattform verbindet Studierende und Unternehmen über ein schlagwortbasie
 
 ### Solution for the Supply Side (Studierende)
 
-- **Kompetenzbasiertes Unternehmens-Matching:** Auf Basis der eigenen Fähigkeiten, abgeschlossenen Module und praktischen Projekte erhalten Studierende Vorschläge für passende Unternehmen inklusive eines transparenten Match-Prozentwerts.
+- **Gezielte Erfassung akademischer Leistungen & Skills:** Über eine standardisierte Liste fachbezogener Schlagwörter hinterlegen Studierende ihre absolvierten Hochschulkurse, Noten, Universitätsprojekte und Zertifikate strukturiert im Profil, ohne dass theoretische Vorkenntnisse im Lebenslauf untergehen.
 
-- **Effiziente Entdeckung passender offenen Stelle:** Anstatt manuell zahlreiche Karriereseiten zu durchsuchen, sehen Studierende sofort, welche Firmen aktuell zu ihren Programmiersprachen und Interessengebieten passen.
+- **Transparenter Match-Score zu (unbekannten) Unternehmen:** Ein sichtbarer prozentualer Match-Score zeigt sofort, wie gut das eigene Skill-Profil zu einem Unternehmen und dessen Tech-Stack passt. Dadurch entdecken Studierende auch kleinere und mittlere Betriebe, die ihnen bei der normalen Recherche verborgen geblieben wären.
 
-- **Weiterleitung zum Bewerbungsprozess:** Mit einem Klick gelangen Studierende von der Match-Übersicht direkt zur Original-Ausschreibung auf der Unternehmens-Webseite, um ihre Bewerbung gezielt einzureichen.
+- **Direktzugriff auf passende Werkstudentenstellen:** Hat ein passendes Unternehmen aktuelle Werkstudentenstellen ausgeschrieben, werden diese direkt angezeigt. Ein Klick führt ohne Umwege zur Original-Ausschreibung auf der Unternehmenswebsite, wodurch das zeitraubende manuelle Durchsuchen einzelner Karriereseiten entfällt.
 
 ## Happy Paths
 
