@@ -74,7 +74,7 @@ Die Verbindung zwischen Studierenden und Unternehmen entsteht auf folgenden Weg:
 
 ### Supply-Side Happy Path (Studierenden)
 
-- **Registrierung & Profil anlegen:** Der/die Studierende registriert sich mit der E-Mail-Adresse, wählt Studiengang sowie aktuelles Fachsemester aus und hinterlegt im Profil fachliche Interessen, konkrete Skills (z. B. Java, Python, Fullstack), abgeschlossene Uni-Kurse und eigene Projekte.   
+- **Registrierung & Profil anlegen:** Studierende registrieren sich mit der E-Mail-Adresse, wählen Studiengang sowie aktuelles Fachsemester aus und hinterlegen im Profil fachliche Interessen, konkrete Skills (z. B. Java, Python, Fullstack), abgeschlossene Uni-Kurse und eigene Projekte. Dafür suchen sie sich aus der Liste der Interessen- und Skill-Schlagwörter die passenden aus.   
 
 - **Empfohlene Unternehmen & Stellen entdecken:** Direkt nach dem Login zeigt das Dashboard automatisch empfohlene Werkstudentenstellen von passenden – teils noch unentdeckten – Unternehmen inklusive des jeweiligen Match-Prozentwerts (z. B. Match 70 %).   
 
