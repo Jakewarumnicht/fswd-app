@@ -76,11 +76,12 @@ Die Verbindung zwischen Studierenden und Unternehmen entsteht auf folgenden Weg:
 
 - **Registrierung & Profil anlegen:** Studierende registrieren sich mit der E-Mail-Adresse, wählen Studiengang sowie aktuelles Fachsemester aus und hinterlegen im Profil fachliche Interessen, konkrete Skills (z. B. Java, Python, Fullstack), abgeschlossene Uni-Kurse und eigene Projekte. Dafür suchen sie sich aus der Liste der Interessen- und Skill-Schlagwörter die passenden aus.   
 
-- **Empfohlene Unternehmen & Stellen entdecken:** Direkt nach dem Login zeigt das Dashboard automatisch empfohlene Werkstudentenstellen von passenden – teils noch unentdeckten – Unternehmen inklusive des jeweiligen Match-Prozentwerts (z. B. Match 70 %).   
+- **Empfohlene Unternehmen & Stellen entdecken:** Direkt nach dem Login zeigt das Dashboard automatisch passende, teils noch unbekannte Unternehmen inklusive des jeweiligen Match-Prozentwerts und falls vorhanden, ihre aktuellen Werkstudentenstellen. Auch jede einzelne Stelle erhält einen eigenen Match-Prozentwert. Im Unternehmensprofil sind die Stellen danach sortiert, wie gut sie zu den gewählten Schlagwörtern passen, die am besten passende Stelle steht ganz oben.   
 
-- **Gezielte Suche & Anforderungsabgleich:**  Über die Such- und Filterfunktion (nach Stelle/Skill, Studiengang, Semester, Stunden/Woche, Standort oder über die Checkbox „Nur Stellen, die zu meinem Profil passen“) grenzt der/die Studierende die aggregierten Ausschreibungen ein und sieht sofort anhand der Schlagwort-Tags und des Match-Scores, wie gut das eigene Profil zum Unternehmen passt.   
+- **Gezielte Suche:** Über die Such- und Filterfunktion (nach Schlagwort, Studiengang, Branche, Ort, z. B. Berlin, Arbeitsmodell Homeoffice, Hybrid oder vor Ort, Stunden pro Woche, Semester, Unternehmensgröße, „Nur Unternehmen mit aktuellen Stellen“ oder über die Checkbox „Nur Unternehmen, die zu meinem Profil passen“) grenzen Studierende die Liste ein und sehen sofort anhand der Schlagwörter und des Match-Scores, wie gut ihr Profil zum Unternehmen passt. Interessante Unternehmen speichern sie in der Merkliste.   
 
-- **Weiterleitung zur Bewerbung:** Klickt der/die Studierende auf eine passende Stelle, erfolgt die direkte Weiterleitung zur Original-Ausschreibung auf der Karriereseite des Unternehmens, um die Bewerbung dort einzureichen.
+- **Weiterleitung zur Bewerbung:** Klickt der Studierende auf eine passende Stelle, erfolgt die direkte Weiterleitung zur Original-Ausschreibung auf der Website des Unternehmens, um die Bewerbung dort einzureichen. Gibt es keine Stelle, kann er sich über den Link zur Website auch initiativ bewerben. 
+
 ---
 
 ## Initial Target Scope (as per Assignment)
