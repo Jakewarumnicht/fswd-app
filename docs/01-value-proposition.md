@@ -24,7 +24,7 @@ Angebote gehen meist auf allgemeinen Plattformen unter.
 
 - **Geringe Sichtbarkeit potenzieller Arbeitgeber:** Unternehmen veröffentlichen Stellen oft auf der eigenen Website, und nicht jede davon erscheint auf den großen Jobportalen oder Suchmaschinen. Studierende, die dort suchen, sehen deshalb nicht alle Werkstudentenstellen, auch nicht die von kleineren und mittleren Unternehmen, welche sie vielleicht noch nicht kennen.
 
-- **Fehlende Erfassung akademischer Leistungen:** Aktuelle Portale bieten keine Möglichkeit, absolvierte Hochschulkurse, Noten, Universitätsprojekte oder Zertifikate strukturiert im Profil zu hinterlegen.
+- **Fehlende Erfassung akademischer Leistungen:** Aktuelle Portale bieten keine Möglichkeit, absolvierte Hochschulkurse, Universitätsprojekte oder Zertifikate strukturiert im Profil zu hinterlegen.
 
 ## Our Plattform Solution
 
@@ -74,7 +74,7 @@ Die Verbindung zwischen Studierenden und Unternehmen entsteht auf folgenden Weg:
 
 ### Supply-Side Happy Path (Studierenden)
 
-- **Registrierung & Profil anlegen:** Der/die Studierende registriert sich mit der Hochschul-E-Mail-Adresse, wählt Studiengang sowie aktuelles Fachsemester aus und hinterlegt im Profil fachliche Interessen, konkrete Skills (z. B. Java, Python, Fullstack), abgeschlossene Uni-Kurse und eigene Projekte.   
+- **Registrierung & Profil anlegen:** Der/die Studierende registriert sich mit der E-Mail-Adresse, wählt Studiengang sowie aktuelles Fachsemester aus und hinterlegt im Profil fachliche Interessen, konkrete Skills (z. B. Java, Python, Fullstack), abgeschlossene Uni-Kurse und eigene Projekte.   
 
 - **Empfohlene Unternehmen & Stellen entdecken:** Direkt nach dem Login zeigt das Dashboard automatisch empfohlene Werkstudentenstellen von passenden – teils noch unentdeckten – Unternehmen inklusive des jeweiligen Match-Prozentwerts (z. B. Match 92 %) sowie eingegangene Mitteilungen und Gesprächseinladungen von Arbeitgebern an.   
 
