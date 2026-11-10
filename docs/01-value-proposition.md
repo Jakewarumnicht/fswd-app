@@ -43,7 +43,7 @@ Unsere Plattform verbindet Studierende und Unternehmen über ein schlagwortbasie
 
 - **Gezielte Erfassung akademischer Leistungen & Skills:** Über eine standardisierte Liste fachbezogener Schlagwörter hinterlegen Studierende ihre absolvierten Hochschulkurse, Noten, Universitätsprojekte und Zertifikate strukturiert im Profil, ohne dass theoretische Vorkenntnisse im Lebenslauf untergehen.
 
-- **Transparenter Match-Score zu (unbekannten) Unternehmen:** Ein sichtbarer prozentualer Match-Score zeigt sofort, wie gut das eigene Skill-Profil zu einem Unternehmen und dessen Tech-Stack passt. Dadurch entdecken Studierende auch kleinere und mittlere Betriebe, die ihnen bei der normalen Recherche verborgen geblieben wären.
+- **Kompetenzbasiertes Unternehmens-Matching:** Auf Basis der eigenen Fähigkeiten, abgeschlossenen Module und praktischen Projekte erhalten Studierende Vorschläge für passende Unternehmen inklusive eines transparenten Match-Prozentwerts. Dazu geben sie ihren Studiengang an und wählen Schlagwörter aus einer festen Liste, und sie können zusätzlich nach Studiengang, Branche, Ort und Unternehmensgröße filtern.
 
 - **Ein Überblick an einer Stelle:** Studierende sehen Unternehmen mit Werkstudentenstellen an einer Stelle und müssen nicht mehr mehrere Portale und Karriere-Seiten einzeln durchsuchen. Die Infos werden automatisch von den Websites der Unternehmen übernommen, auch wenn eine Stelle nur dort steht. Ein Klick führt ohne Umwege zur Original-Ausschreibung auf der Unternehmenswebsite.
 
