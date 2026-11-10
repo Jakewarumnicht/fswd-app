@@ -45,7 +45,7 @@ Unsere Plattform verbindet Studierende und Unternehmen über ein schlagwortbasie
 
 - **Transparenter Match-Score zu (unbekannten) Unternehmen:** Ein sichtbarer prozentualer Match-Score zeigt sofort, wie gut das eigene Skill-Profil zu einem Unternehmen und dessen Tech-Stack passt. Dadurch entdecken Studierende auch kleinere und mittlere Betriebe, die ihnen bei der normalen Recherche verborgen geblieben wären.
 
-- **Direktzugriff auf passende Werkstudentenstellen:** Hat ein passendes Unternehmen aktuelle Werkstudentenstellen ausgeschrieben, werden diese direkt angezeigt. Ein Klick führt ohne Umwege zur Original-Ausschreibung auf der Unternehmenswebsite, wodurch das zeitraubende manuelle Durchsuchen einzelner Karriereseiten entfällt.
+- **Ein Überblick an einer Stelle:** Studierende sehen Unternehmen mit Werkstudentenstellen an einer Stelle und müssen nicht mehr mehrere Portale und Karriere-Seiten einzeln durchsuchen. Die Infos werden automatisch von den Websites der Unternehmen übernommen, auch wenn eine Stelle nur dort steht. Ein Klick führt ohne Umwege zur Original-Ausschreibung auf der Unternehmenswebsite.
 
 ## Happy Paths
 
