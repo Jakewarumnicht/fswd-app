@@ -19,7 +19,7 @@
 Praxiserfahrung im eigenen Fachbereich sammeln und bringen theoretische Grundlagen sowie Skills mit.
 
 - **Problem:**
-- **Mangelnde Berufserfahrung:** Studierende scheitern oft an formalen Filtern klassischer Portale und können ihre Stärken aus dem Studium schwer nachweisen.
+- **** 
 
 - **Geringe Sichtbarkeit potenzieller Arbeitgeber:** Es gibt zahlreiche attraktive Arbeitgeber, die Studierende bisher nicht kennen oder bei Recherche nicht entdecken können.
 
