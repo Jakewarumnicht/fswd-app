@@ -2,7 +2,7 @@
 
 # Target Users + Problems
 
-## **2.1 Primäre Zielgruppe: Studierende**
+## **Primäre Zielgruppe: Studierende**
 
 Unsere primäre Zielgruppe sind Studierende, die eine Werkstudentenstelle suchen, um ihr Studium finanziell zu unterstützen und relevante Berufserfahrung zu sammeln.
 
@@ -16,7 +16,7 @@ Die empirischen Ergebnisse von jobvalley (2024) unterstützen insbesondere die B
 Auch der DIW Wochenbericht 41/2017 verweist auf Forschungsergebnisse, die einen Zusammenhang zwischen fachbezogener studentischer Erwerbstätigkeit und günstigeren beruflichen Einstiegschancen zeigen.
 
 ---
-## **2.2 Sekundäre Zielgruppe: Unternehmen**
+## **Sekundäre Zielgruppe: Unternehmen**
 
 Unsere sekundäre Zielgruppe sind Unternehmen, insbesondere kleine und mittlere Unternehmen (KMU), die Werkstudentenstellen anbieten und geeignete Nachwuchskräfte erreichen möchten.
 
