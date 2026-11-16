@@ -1,6 +1,6 @@
 [← Contributors](README.md)
 
-# Jake Kim
+# Jake Schifer
 
 ## Meta-Goals
 
