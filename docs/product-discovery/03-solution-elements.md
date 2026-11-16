@@ -2,7 +2,7 @@
 
 # Solution Elements
 
-## **3.1 Grundidee von Uni2Work**
+## **Grundidee von Uni2Work**
 
 Uni2Work ist eine spezialisierte Webplattform, die Studierende anhand ihrer fachlichen Interessen und Fähigkeiten mit passenden Unternehmen und Werkstudentenstellen verbindet.
 
@@ -10,7 +10,7 @@ Die Lösung konzentriert sich auf drei Vorteile: **gezieltere Stellensuche, komp
 
 ---
 
-## **3.2 Zentrale Funktionen**
+## **Zentrale Funktionen**
 
 | Solution Element                 | Nutzen                                                                                                       |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -24,7 +24,7 @@ Die Lösung konzentriert sich auf drei Vorteile: **gezieltere Stellensuche, komp
 
 ---
 
-## **3.3 Zusammenhang zwischen Problemen und Lösung**
+## **Zusammenhang zwischen Problemen und Lösung**
 
 Uni2Work setzt gezielt an den zuvor beschriebenen Problemen an.
 
