@@ -13,8 +13,8 @@ Unsere primäre Zielgruppe sind Studierende, die eine Werkstudentenstelle suchen
 - Zeit bei der Suche über verschiedene Jobportale und Unternehmenswebsites sparen.
 
 Die empirischen Ergebnisse von jobvalley (2024) unterstützen insbesondere die Bedeutung fachbezogener Beschäftigung und den Bedarf an einer verbesserten Stellensuche.
-
 Auch der DIW Wochenbericht 41/2017 verweist auf Forschungsergebnisse, die einen Zusammenhang zwischen fachbezogener studentischer Erwerbstätigkeit und günstigeren beruflichen Einstiegschancen zeigen.
+
 ---
 ## **2.2 Sekundäre Zielgruppe: Unternehmen**
 
