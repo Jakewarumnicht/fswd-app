@@ -10,4 +10,4 @@
 ---
 - [Jonas Fabian Müller](./jonas-fabian-müller.md)
 ---
-- [Jake Kim](./jake-kim.md)
+- [Jake Kim](./jake-schifer.md)
